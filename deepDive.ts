@@ -50,5 +50,7 @@ var baz = {};
 console.log(foo === bar); // true
 console.log(foo === baz); // false
 
-
+const hello = () => {
+  console.log('hello');
+}
 
