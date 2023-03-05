@@ -54,3 +54,4 @@ const hello = () => {
   console.log('hello');
 }
 
+let hoge: string = 'hoge';
