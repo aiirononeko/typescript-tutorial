@@ -55,3 +55,5 @@ const hello = () => {
 }
 
 let hoge: string = 'hoge';
+
+let fuga: number = 0;
